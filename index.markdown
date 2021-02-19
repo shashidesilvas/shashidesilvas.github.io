@@ -5,17 +5,7 @@ title: About
 
 
 <img src="/images/shakespeare.png" class="right" />
-Shashini is a PhD candidate in the department of electrical engineering and computer science at Oregon State University under the suprevision of [Prof. Jinsub Kim](https://sites.google.com/a/cornell.edu/jinsub-kim/home). She received her B.Sc. from [University of Moratuwa](http://www.ent.mrt.ac.lk/web3/), Sri Lanka in 2015 and her M.Sc. from [Oregon State University](https://eecs.oregonstate.edu/). Her research interests are in applications of signal processing and machine learning algorithm to enhance the resilienece of power grids. 
-
-{% highlight ruby %}
-#include <iostream>
-using namespace std;
-int main(void){
-     cout << " Welcome everyone" ;
-}
-{% endhighlight %}
-
-
+Hi! My name is Shashini De Silva. I am a PhD candidate in the department of electrical engineering and computer science at Oregon State University, advised by [Prof. Jinsub Kim](https://sites.google.com/a/cornell.edu/jinsub-kim/home). I received my B.Sc. from [University of Moratuwa](http://www.ent.mrt.ac.lk/web3/), Sri Lanka in 2015 and my M.Sc. from [Oregon State University](https://eecs.oregonstate.edu/) in 2019. I have a background in signal processing and machine learning where my research focus on securing power grid operations from adversarial perturbations. 
 
 # Publications. 
 ### Journals.  
