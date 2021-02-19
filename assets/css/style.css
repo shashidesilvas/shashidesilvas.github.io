@@ -150,7 +150,7 @@ article h1 a.anchor {
 	margin-left: 8px;
 }
 article img {
-	display: block;
+	display: contents;
 	text-align: center;
 	margin: 0 auto 1em auto;
 }
@@ -168,7 +168,7 @@ img.right {
 	margin: 0 0 1em 1em;
 }
 img.center {
-	display: block;
+	display: contents;
 	text-align: center;
 	margin: 0 auto 1em auto;
 }
@@ -199,7 +199,7 @@ img.center {
 		margin: 10px 10px 20px 10px;
 	}
 	#sidebar nav select.mnav {
-		display: block;
+		display: contents;
 		margin-bottom: 15px;
 	}
 }
@@ -219,7 +219,7 @@ img.center {
   font-style: normal;
   font-weight: normal;
   speak: none;
-  display: inline-block;
+  display: contents;
   text-decoration: inherit;
   width: 1em;
   margin-right: .2em;
