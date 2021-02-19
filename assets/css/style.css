@@ -30,67 +30,53 @@ table {
 
 
 
-/*** Basics ***/
+//*** Basics ***/
 body {
 	font-family: Verdana, serif;
 	font-size: 20px;
 	line-height: 1.7;
 }
 
-a, a:active, a:visited {
-	text-decoration: none;
-	border-bottom: 1px solid #839496;
-	padding-bottom: 2px;
-}
-a:hover {
-	background-color: #839496;
+@@ -47,9 +47,9 @@ a:hover {
 	color: #000000;
 }
 
-p, pre { margin-bottom: 5px; }
+p, pre { margin-bottom: 15px; }
 ul, ol { padding: 0 0 18px 30px; }
-ol li, ul li { margin-top: 5px; margin-bottom: 5px; }
+ol li, ul li { margin-top: 10px; margin-bottom: 10px; }
 em, i { font-style: italic; }
 strong, b { font-weight: bold; }
 small { font-size: 0.85em; }
 sup { vertical-align: super; font-size: 0.85em; }
 sub { vertical-align: sub; font-size: 0.85em; }
-
 code {
     font: 0.85em Monaco, Courier, Monospace;
 }
-
 blockquote {
-    margin: 2px 2px;
-    padding: 0 2px;
-    border-left: 1x solid #000000;
+    margin: 22px 22px;
+    padding: 0 20px;
+    border-left: 2px solid #000000;
     font-size: 1.2em;
     font-style: italic;
     line-height: 1.5em;
 }
-
 acronym, abbr {
 	cursor: help;
 	letter-spacing: 1px;
 	border-bottom: 1px dashed;
 }
-
-
 h1 {
 	font-size: 17px;
-	margin: 0 0 2px 0;
+	margin: 0 0 10px 0;
 }
 h2 {
 	font-size: 15px;
-	margin: 0 0 2px 0;
+	margin: 0 0 10px 0;
 }
 h3 {
 	font-size: 14px;
-	margin: 0 0 2px 0;
+	margin: 0 0 10px 0;
 }
-
-
-
 /*** Useful Classes ***/
 .clear { clear: both; }
 .float-left { float: left; }
@@ -104,19 +90,15 @@ h3 {
 .img-middle { vertical-align: middle; }
 .nopadding { padding: 0; }
 .nounderline { text-decoration: underline; }
-
-
-
 /*** Structure ***/
 #page {
 	width: 500px;
-	margin: 0 0;
+	margin: 0 auto;
 	position: relative;
 }
-
 #header {
 	width: 500px;
-	margin: 20px 0 20px 0;
+	margin: 40px auto 50px auto;
 }
 #header h1 {
 	font-size: 32px;
@@ -125,7 +107,6 @@ h3 {
 #header h1 a {
 	border: none;
 }
-
 #footer {
 	width: 500px;
 	margin: 50px auto 20px auto;
@@ -133,12 +114,10 @@ h3 {
 	font-size: 0.85em;
 	border-top: 1px solid #073642;
 }
-
 #content {
 	width: 500px;
 	margin: 0 auto;
 }
-
 #sidebar {
 	position: absolute;
 	text-align: right;
@@ -146,26 +125,20 @@ h3 {
 	top: 0;
 	left: -240px;
 }
-
 #sidebar li {
 	list-style: none;
 	margin: 2px 0;
 }
-
 #sidebar a {
 	border: none;
 	font-family: "Helvetica Neue", "Helvetica", serif;
 	font-size: 1.2em;
 	padding: 2px 4px;
 }
-
-
-
 /*** Posts ***/
 article {
 	margin-bottom: 40px;
 }
-
 article h1 {
 	font-size: 17px;
 	margin: 0 0 10px 0;
@@ -176,19 +149,16 @@ article h1 a {
 article h1 a.anchor {
 	margin-left: 8px;
 }
-
 article img {
 	display: block;
 	text-align: center;
 	margin: 0 auto 1em auto;
 }
-
 article .meta {
 	padding-top: 6px;
 	font-size: 0.85em;
 	font-style: italic;
 }
-
 img.left {
 	float: left;
 	margin: 0 1em 1em 0;
@@ -202,35 +172,25 @@ img.center {
 	text-align: center;
 	margin: 0 auto 1em auto;
 }
-
-
-
 /*** Pagination ***/
 .postnavigation {
 	padding-top: 10px;
     text-align: center;
     font-size: 0.85em;
 }
-
 .postnavigation .left {
 	float: left;
 }
-
 .postnavigation .right {
 	float: right;
 }
-
-
-
 /*** Media Queries ***/
 @media all and (max-width: 870px) {
-
 	#page, #header, #content, #footer {
 		width: inherit;
 		padding-left: 10px;
 		padding-right: 10px;
 	}
-
 	#sidebar {
 		position: relative;
 		text-align: left;
@@ -238,16 +198,11 @@ img.center {
 		left: 0;
 		margin: 10px 10px 20px 10px;
 	}
-
 	#sidebar nav select.mnav {
 		display: block;
 		margin-bottom: 15px;
 	}
-
 }
-
-
-
 /*** Icons ***/
 @font-face {
   font-family: 'solarthemeicons';
@@ -259,7 +214,6 @@ img.center {
   font-weight: normal;
   font-style: normal;
 }
-
 [class^="icon-"]:before, [class*=" icon-"]:before {
   font-family: "solarthemeicons";
   font-style: normal;
