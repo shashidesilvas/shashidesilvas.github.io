@@ -5,7 +5,7 @@ title: About
 
 
 <img src="/images/shakespeare.png" class="right" />
-Malinda is a PhD candidate in the department of computer science at Oregon State University under the suprevision of [Prof. Danny Dig](https://danny.cs.colorado.edu). He received his B.Sc. from [University of Moratuwa](http://www.ent.mrt.ac.lk/web3/), Sri Lanka in 2015. He is a former senior software engineer in [London Stock Exchange Technology](https://www.lseg.com) (2015-2018). Malinda enjoys doing research on software engineering, software quality of ML software, static code analysis, software refactoring and empirical software engineering.
+Shashini is a PhD candidate in the department of electrical engineering and computer science at Oregon State University under the suprevision of [Prof. Jinsub Kim](https://sites.google.com/a/cornell.edu/jinsub-kim/home). She received her B.Sc. from [University of Moratuwa](http://www.ent.mrt.ac.lk/web3/), Sri Lanka in 2015 and her M.Sc. from [Oregon State University](https://eecs.oregonstate.edu/). Her research interests are in applications of signal processing and machine learning algorithm to enhance the resilienece of power grids. 
 
 {% highlight ruby %}
 #include <iostream>
