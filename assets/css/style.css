@@ -8,7 +8,7 @@ html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockq
 	vertical-align: baseline;
 }
 article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
-	display: contents;
+	display: block;
 }
 body {
 	line-height: 1;
@@ -150,7 +150,7 @@ article h1 a.anchor {
 	margin-left: 8px;
 }
 article img {
-	display: contents;
+	display: block;
 	text-align: center;
 	margin: 0 auto 1em auto;
 }
@@ -168,7 +168,7 @@ img.right {
 	margin: 0 0 1em 1em;
 }
 img.center {
-	display: contents;
+	display: block;
 	text-align: center;
 	margin: 0 auto 1em auto;
 }
@@ -199,7 +199,7 @@ img.center {
 		margin: 10px 10px 20px 10px;
 	}
 	#sidebar nav select.mnav {
-		display: contents;
+		display: block;
 		margin-bottom: 15px;
 	}
 }
@@ -219,9 +219,9 @@ img.center {
   font-style: normal;
   font-weight: normal;
   speak: none;
-  display: contents;
+  display: inline-block;
   text-decoration: inherit;
-  width: 1em;
+  width: 5em;
   margin-right: .2em;
   text-align: center;
   font-variant: normal;
