@@ -2,7 +2,6 @@
 layout: default
 title: 
 ---
-# News
 
 *Feb 2021* - Presented our work on [Data Driven Sparse Error Correction for PMUMeasurements under GPS Spoofing Attacks](https://ieee-isgt.org/) in ISGT-2021 conference (virtual event). (Video)
 
