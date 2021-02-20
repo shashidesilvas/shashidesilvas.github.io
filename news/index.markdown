@@ -26,6 +26,5 @@ title: News
 
 *Sep 2016* - Started my Ph.D. at Oregon State University.
 
-*Dec 2015* - Presented my undergraduate research project on [A Sensor Platform for the Visually Impaired to Walk Straight Avoiding Obstacles
-] (https://ieeexplore.ieee.org/abstract/document/7438513) at the International Conference in Sensing Technology - 2015 held in University of Auckland, New Zealand. 
+*Dec 2015* - Presented my undergraduate research project on [A Sensor Platform for the Visually Impaired to Walk Straight Avoiding Obstacles](https://ieeexplore.ieee.org/abstract/document/7438513) at the International Conference in Sensing Technology - 2015 held in University of Auckland, New Zealand. 
 
