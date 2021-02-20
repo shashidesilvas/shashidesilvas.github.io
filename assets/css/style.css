@@ -8,7 +8,7 @@ html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockq
 	vertical-align: baseline;
 }
 article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
-	display: inline;
+	display: block;
 }
 body {
 	line-height: 1;
@@ -265,7 +265,7 @@ img.center {
   font-style: normal;
   font-weight: normal;
   speak: none;
-  display: inline;
+  display: contents;
   text-decoration: inherit;
   width: 1em;
   margin-right: .2em;
