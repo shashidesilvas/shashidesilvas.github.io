@@ -24,6 +24,6 @@ Oregon State University, USA - Winter 2017, Winter 2021
 **ENGR 201 - Electrical Fundamentals**
 Oregon State University, USA - Fall 2016
 
-**EN 353 - Signals and Systems**
+**EN 1060 - Signals and Systems**
 University of Moratuwa, Sri Lanka
 
