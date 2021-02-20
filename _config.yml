@@ -1,6 +1,5 @@
 name: Shashini Desliva
 url: https://shashidesilvas.github.io
-description: “Before software can be reusable it first has to be usable.” – Ralph Johnson
 
 permalink: /:year/:month/:day/:title/
 paginate: 10
