@@ -6,13 +6,13 @@ title:
 **ECE 437/537 - Smart Grid**
 Oregon State University, USA - Spring 2019
 
-**ECE/CS 599 - Matrix Analysis for Signal Processing and Machine Learning **
+**ECE/CS 599 - Matrix Analysis for Signal Processing and Machine Learning**
 Oregon State University, USA - Spring 2020
 
 **ECE/CS 599 - Nonlinear Optimization**
 Oregon State Universtiy, USA - Spring 2019, Spring 2020
 
-**CS 225 - Discrete Structures in Computer Science **
+**CS 225 - Discrete Structures in Computer Science**
 Oregon State Universtiy, USA - Spring 2017, Summer 2018, Summer 2019
 
 **ECE 353 - Introduction to Probability and Random Signals**
