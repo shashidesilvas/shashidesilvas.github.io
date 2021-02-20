@@ -13,7 +13,7 @@ Hi! My name is Shashini De Silva. I am a PhD candidate in the department of elec
 Shashini De Silva, Jinsub Kim, Eduardo Cotilla-Sanchez, and Travis Hagan. (Under review)
 
 ### Conference Papers.
-**1. [Data Driven Sparse Error Correction for PMU Measurements under GPS Spoofing Attacks](Accepted)** (ISGT 2021 - IEEE Conference on Innovative Smart Grid Technologies)<br/>
+**1. Data Driven Sparse Error Correction for PMU Measurements under GPS Spoofing Attacks (Accepted) (ISGT 2021 - IEEE Conference on Innovative Smart Grid Technologies)<br/>
 Shashini De Silva, Jinsub Kim, anda Eduardo Cotilla-Sanchez. 
 
 **2. [Cost Aware Adversarial Learning](https://ieeexplore.ieee.org/abstract/document/9053631)** (ICASSP 2020 - 2020 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP))<br/> Shashini De Silva, Jinsub Kim, and Raviv Raich 
