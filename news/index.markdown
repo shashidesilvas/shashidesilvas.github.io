@@ -5,6 +5,8 @@ title:
 
 **Jul 2021** - Presented our work on Mitigation of GPS Spoofing Attacks on PMUs via Multi-Period Sparse Error Correction in PESGM-2021 conference (virtual event). 
 
+**April 2021** - Scholarship to participate in CRA - Grad Cohort for women 2021 and presented a lightning talk on sparse attacks on power networks.
+
 **Feb 2021** - Presented our work on [Data Driven Sparse Error Correction for PMUMeasurements under GPS Spoofing Attacks](https://ieee-isgt.org/) in ISGT-2021 conference (virtual event).
 
 **Nov 2020** - Received NSF student travel grant for [IEEE SmartGridComm](https://sgc2020.ieee-smartgridcomm.org/) conference. Also served as a reviewer and a student volunteer in the conference.
