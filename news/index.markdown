@@ -3,8 +3,7 @@ layout: default
 title: 
 ---
 
-**Jul 2021** - Presented our work on [Mitigation of GPS Spoofing Attacks on PMUs via Multi-Period Sparse Error Correction]
- (https://ieee-isgt.org/) in PESGM-2021 conference (virtual event). 
+**Jul 2021** - Presented our work on Mitigation of GPS Spoofing Attacks on PMUs via Multi-Period Sparse Error Correction in PESGM-2021 conference (virtual event). 
 
 **Feb 2021** - Presented our work on [Data Driven Sparse Error Correction for PMUMeasurements under GPS Spoofing Attacks](https://ieee-isgt.org/) in ISGT-2021 conference (virtual event).
 
